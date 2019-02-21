@@ -1,0 +1,11 @@
+Dallas|Houston|T
+Chicago|Dallas|C
+NewYork JFK|Dallas|C
+Dallas|LA|C
+Vietanam|LA|T
+LA|Vietnam|C
+New York|Miami|C
+San Diego|Orlando|T
+Chicago|Miami|T
+Chicago|Chicago|C
+Austin|New York|C
